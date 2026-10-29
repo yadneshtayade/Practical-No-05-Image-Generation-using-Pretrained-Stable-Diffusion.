@@ -1,0 +1,2 @@
+# Practical-No-05-Image-Generation-using-Pretrained-Stable-Diffusion.
+Implement a pretrained Stable Diffusion model using the Hugging Face Diffusers library to generate images from text prompts. Analyze the impact of inference steps, guidance scale, and different sampling methods on the quality of the generated imageshttps://drive.google.com/drive/folders/15COnhlyy_oRZ1LRF5A5QvGXIkxg6Y0Cd?usp=sharing
